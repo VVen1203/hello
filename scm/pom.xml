@@ -10,13 +10,13 @@
 
     <groupId>org.example</groupId>
     <artifactId>scm</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.6-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
         <developerConnection>scm:git:https://github.com/VVen1203/hello.git</developerConnection>
         <url>https://github.com/VVen1203/hello/master</url>
-      <tag>scm-1.0.5</tag>
+      <tag>scm-1.0.0</tag>
     </scm>
 
 
