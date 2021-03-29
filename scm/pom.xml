@@ -10,13 +10,14 @@
 
     <groupId>org.example</groupId>
     <artifactId>scm</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
         <developerConnection>scm:git:https://github.com/VVen1203/hello.git</developerConnection>
         <url>https://github.com/VVen1203/hello/master</url>
-    </scm>
+      <tag>scm-1.0.1</tag>
+  </scm>
 
 
     <build>
@@ -24,7 +25,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-release-plugin</artifactId>
-                <version>2.3</version>
+                <version>2.5.3</version>
                 <configuration>
                     <username>VVen1203</username>
                     <password>xzy12332100</password>
@@ -32,12 +33,6 @@
                     <goals>-f pom.xml deploy</goals>
                 </configuration>
                 <dependencies>
-                    <dependency>
-                        <groupId>org.apache.maven.scm</groupId>
-                        <artifactId>maven-scm-provider-jgit</artifactId>
-                        <version>1.11.2</version>
-                    </dependency>
-
                     <dependency>
                         <groupId>org.apache.maven.scm</groupId>
                         <artifactId>maven-scm-api</artifactId>
