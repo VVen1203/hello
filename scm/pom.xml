@@ -25,18 +25,18 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-release-plugin</artifactId>
-                <version>2.5.3</version>
+                <version>3.0.0-M1</version>
                 <configuration>
                     <username>VVen1203</username>
                     <password>xzy12332100</password>
                     <tagBase>${project.artifactId}-${project.version}</tagBase>
-                    <goals>-f pom.xml deploy</goals>
+                    <releaseProfiles>release</releaseProfiles>
                 </configuration>
                 <dependencies>
                     <dependency>
                         <groupId>org.apache.maven.scm</groupId>
                         <artifactId>maven-scm-api</artifactId>
-                        <version>1.10.0</version>
+                        <version>1.11.2</version>
                     </dependency>
                 </dependencies>
             </plugin>
