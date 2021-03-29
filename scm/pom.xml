@@ -26,9 +26,6 @@
                     <artifactId>maven-release-plugin</artifactId>
                 <version>2.3</version>
                 <configuration>
-                    <providerImplementations>
-                        <git>jgit</git>
-                    </providerImplementations>
                     <username>VVen1203</username>
                     <password>xzy12332100</password>
                     <tagBase>${project.artifactId}-${project.version}</tagBase>
