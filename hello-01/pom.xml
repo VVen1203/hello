@@ -8,13 +8,13 @@
     </parent>
 
     <artifactId>hello-01</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
         <developerConnection>scm:git:https://github.com/VVen1203/hello.git</developerConnection>
         <url>https://github.com/VVen1203/hello/master</url>
-        <tag>2.0</tag>
+        <tag>scm-4.0.2</tag>
     </scm>
 
 
