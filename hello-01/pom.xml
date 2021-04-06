@@ -4,11 +4,11 @@
     <parent>
         <artifactId>hello0=0</artifactId>
         <groupId>org.example</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-RELEASE</version>
     </parent>
 
     <artifactId>hello-01</artifactId>
-    <version>scm-3.0.2-release</version>
+    <version>scm-3.0.2-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
