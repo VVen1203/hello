@@ -2,21 +2,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.4.RELEASE</version>
-        <relativePath />
+        <artifactId>hello0=0</artifactId>
+        <groupId>org.example</groupId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>scm</artifactId>
-    <version>scm-2.0.2-release</version>
+    <artifactId>hello-01</artifactId>
+    <version>scm-3.0.2-release</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
         <developerConnection>scm:git:https://github.com/VVen1203/hello.git</developerConnection>
         <url>https://github.com/VVen1203/hello/master</url>
-      <tag>scm-2.0.2</tag>
+        <tag>scm-2.0.2</tag>
     </scm>
 
 
@@ -24,7 +22,7 @@
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-release-plugin</artifactId>
+                <artifactId>maven-release-plugin</artifactId>
                 <version>3.0.0-M1</version>
                 <configuration>
                     <username>VVen1203</username>
