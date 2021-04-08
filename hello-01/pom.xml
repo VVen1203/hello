@@ -18,7 +18,7 @@
     </scm>
 
     <build>
-        <plugins>
+        <plugins>111
             <plugin>1
                 <groupId>com.ehualu</groupId>
                 <artifactId>xuxu</artifactId>
