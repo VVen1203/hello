@@ -24,7 +24,7 @@
                 <artifactId>xuxu</artifactId>
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
-                    <forceVersion>yryt1rytr1</forceVersion>
+                    <forceVersion>333</forceVersion>
                 </configuration>
             </plugin>
             <plugin>
