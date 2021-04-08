@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>hello-01</artifactId>
-    <version>333</version>
+    <version>3133</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
