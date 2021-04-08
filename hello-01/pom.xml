@@ -24,7 +24,7 @@
                 <artifactId>xuxu</artifactId>
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
-                    <forceVersion>yrytrytr</forceVersion>
+                    <forceVersion>yryt1rytr</forceVersion>
                 </configuration>
             </plugin>
             <plugin>
