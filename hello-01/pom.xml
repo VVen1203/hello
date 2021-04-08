@@ -18,8 +18,8 @@
     </scm>
 
     <build>
-        <plugins>111
-            <plugin>1
+        <plugins>
+            <plugin>
                 <groupId>com.ehualu</groupId>
                 <artifactId>xuxu</artifactId>
                 <version>1.0-SNAPSHOT</version>
