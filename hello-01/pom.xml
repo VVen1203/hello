@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>hello-01</artifactId>
-    <version>54654tregh</version>
+    <version>5465411tregh</version>
 
     <scm>
         <connection>scm:git:https://github.com/VVen1203/hello.git</connection>
@@ -24,7 +24,7 @@
                 <artifactId>xuxu</artifactId>
                 <version>1.0-SNAPSHOT</version>
                 <configuration>
-                    <forceVersion>54654tregh</forceVersion>
+                    <forceVersion>5465411tregh</forceVersion>
                 </configuration>
             </plugin>
             <plugin>
