@@ -23,7 +23,7 @@
                 <groupId>com.ehualu</groupId>
                 <artifactId>xuxu</artifactId>
                 <version>1.0-SNAPSHOT</version>
-                <configuration>
+                <configuration>11
                     <forceVersion>yryt1rytr</forceVersion>
                 </configuration>
             </plugin>
