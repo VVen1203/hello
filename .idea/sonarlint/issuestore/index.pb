@@ -3,3 +3,6 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 @
 hello-01/pom.xml,0\a\0ace658daa7992f8490b44b34fd05812ea1a9865
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
