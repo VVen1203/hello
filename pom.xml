@@ -20,4 +20,22 @@
         <module>hello-01</module>
     </modules>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>versions-maven-plugin</artifactId>
+                <version>2.7</version>
+                <configuration>
+                    <generateBackupPoms>false</generateBackupPoms>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>com.ehualu</groupId>
+                <artifactId>ves</artifactId>
+                <version>1.0-SNAPSHOT</version>
+            </plugin>
+        </plugins>
+    </build>
+
 </project>
