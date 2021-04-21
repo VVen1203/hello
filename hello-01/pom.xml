@@ -2,9 +2,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>hello0</artifactId>
+        <artifactId>hello</artifactId>
         <groupId>org.example</groupId>
-        <version>2.0.0</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>hello-01</artifactId>
