@@ -14,7 +14,7 @@
     <version>1.0.0</version>
 
     <modules>
-        <module>hello-01</module>
+        <module>hello1</module>
     </modules>
 
     <build>
