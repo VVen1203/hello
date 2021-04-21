@@ -11,7 +11,7 @@
     <groupId>org.example</groupId>
     <artifactId>hello0</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
 
     <modules>
         <module>hello-01</module>
