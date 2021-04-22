@@ -25,6 +25,8 @@ target/
 *.zip
 *.tar.gz
 *.rar
+*.xml
+*.pb
 
 ### STS ###
 .apt_generated
